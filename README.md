@@ -92,7 +92,7 @@ hr-workforce-analytics-sql/
 |-- README.md
 |-- 01_schema_and_data.sql   # tables + sample data
 |-- 02_queries.sql           # Q1-Q9 analysis queries
-`-- screenshots/             # query output screenshots
+`-- result_images/             # query output screenshots
 ```
 
 ## Author
